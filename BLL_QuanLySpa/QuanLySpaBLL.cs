@@ -27,7 +27,6 @@ namespace BLL_QuanLySpa
         public void getAll()
         {
             string file = "../../../QuanLySpa.xml";
-
             qlDAL.DocFile(file);
             this.dsDV = qlDAL.DsDV;
             this.dsKH = qlDAL.DsKH;

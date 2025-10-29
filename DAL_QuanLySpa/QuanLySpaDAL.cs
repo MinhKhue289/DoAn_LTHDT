@@ -9,6 +9,7 @@ using System.Xml;
 
 namespace DAL_QuanLySpa
 {
+    //DAL_QUANLYSPA
     public class QuanLySpaDAL
     {
         private List<KhachHangDTO> dsKH = new List<KhachHangDTO>();

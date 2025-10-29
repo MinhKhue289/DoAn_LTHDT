@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|c:\\users\\thanh\\desktop\\doan_lthdt\\doan\\dto_quanlyspa\\duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\dto_quanlyspa\\duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
               "ToolTip": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\GUI_QuanLySpa1\\QuanLySpaGUI.cs",
               "RelativeToolTip": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAYwEAAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T04:06:38.249Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "DTO_QuanLySpa\\DuongSinhTriLieu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T03:52:12.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T03:52:12.509Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "DTO_QuanLySpa\\ChamSocBody.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:09:39.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T19:09:39.947Z"
             },
             {
               "$type": "Document",

@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5A57E65E-8E3A-403C-95DE-6E7E739B9371}</ProjectGuid>
+    <ProjectGuid>{B6E526A3-7FA0-4D48-861E-F4D4FFDDA234}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DoAn</RootNamespace>
-    <AssemblyName>DoAn</AssemblyName>
+    <RootNamespace>SoDo</RootNamespace>
+    <AssemblyName>SoDo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,22 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChamSocBody.cs" />
-    <Compile Include="ChamSocSacDep.cs" />
-    <Compile Include="DichVu.cs" />
-    <Compile Include="DuongSinhTriLieu.cs" />
-    <Compile Include="IGiamGia.cs" />
-    <Compile Include="KhachHang.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QLSpa.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="SoDo.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="QuanLySpa.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

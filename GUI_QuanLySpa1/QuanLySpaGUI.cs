@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
+//GUI_QUANLYSPA
 namespace GUI_QuanLySpa 
 {
     internal class QuanLySpaGUI

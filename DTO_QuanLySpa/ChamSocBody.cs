@@ -29,7 +29,6 @@ namespace Do_An
         {
             Console.OutputEncoding = Encoding.UTF8;
             base.Xuat();
-            //Console.Write($"Số tiền được giảm: {TinhGiamGia()}");
         }
     }
 }
