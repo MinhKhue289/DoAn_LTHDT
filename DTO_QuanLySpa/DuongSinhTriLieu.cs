@@ -30,7 +30,7 @@ namespace DTO_QuanLySpa
         {
             Console.OutputEncoding = Encoding.UTF8;
             base.Xuat();
-            Console.WriteLine($"Số tiền được giảm: {TinhGiamGia()}");
+            //Console.WriteLine($"Số tiền được giảm: {TinhGiamGia()}");
         }
     }
 }

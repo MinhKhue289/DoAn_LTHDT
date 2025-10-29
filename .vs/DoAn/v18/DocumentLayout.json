@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B611A240-C2E2-4F66-A199-E054BCA72A2E}|GUI_QuanLySpa1\\GUI_QuanLySpa1.csproj|c:\\users\\thanh\\desktop\\doan_lthdt\\doan\\gui_quanlyspa1\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B611A240-C2E2-4F66-A199-E054BCA72A2E}|GUI_QuanLySpa1\\GUI_QuanLySpa1.csproj|solutionrelative:gui_quanlyspa1\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\dto_quanlyspa\\chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|c:\\users\\thanh\\desktop\\doan_lthdt\\doan\\dto_quanlyspa\\duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\dto_quanlyspa\\chamsocsacdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\chamsocsacdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\dto_quanlyspa\\chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68D46E8-1493-4C0E-9AD8-1FF6C8D924CC}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B1ED4D5-6738-456B-BB1C-87A30069DDB7}|Data{2B1ED4D5-6738-456B-BB1C-87A30069DDB7}|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\QuanLySpa.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D046419-9E4C-45FC-AB02-148EECDD6812}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\bll_quanlyspa\\quanlyspabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D046419-9E4C-45FC-AB02-148EECDD6812}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|solutionrelative:bll_quanlyspa\\quanlyspabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B611A240-C2E2-4F66-A199-E054BCA72A2E}|GUI_QuanLySpa1\\GUI_QuanLySpa1.csproj|C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\gui_quanlyspa1\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B611A240-C2E2-4F66-A199-E054BCA72A2E}|GUI_QuanLySpa1\\GUI_QuanLySpa1.csproj|solutionrelative:gui_quanlyspa1\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,31 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuanLySpaGUI.cs",
+              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\GUI_QuanLySpa1\\QuanLySpaGUI.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
+              "ToolTip": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\GUI_QuanLySpa1\\QuanLySpaGUI.cs",
+              "RelativeToolTip": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:06:38.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DuongSinhTriLieu.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DTO_QuanLySpa\\DuongSinhTriLieu.cs",
               "RelativeDocumentMoniker": "DTO_QuanLySpa\\DuongSinhTriLieu.cs",
               "ToolTip": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DTO_QuanLySpa\\DuongSinhTriLieu.cs",
               "RelativeToolTip": "DTO_QuanLySpa\\DuongSinhTriLieu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T03:52:12.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuanLySpaGUI.cs",
-              "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\GUI_QuanLySpa1\\QuanLySpaGUI.cs",
-              "RelativeDocumentMoniker": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
-              "ToolTip": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\GUI_QuanLySpa1\\QuanLySpaGUI.cs",
-              "RelativeToolTip": "GUI_QuanLySpa1\\QuanLySpaGUI.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:20:47.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "QuanLySpa.xml",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\QuanLySpa.xml",
               "RelativeDocumentMoniker": "QuanLySpa.xml",
@@ -79,19 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChamSocBody.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DTO_QuanLySpa\\ChamSocBody.cs",
               "RelativeDocumentMoniker": "DTO_QuanLySpa\\ChamSocBody.cs",
               "ToolTip": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DTO_QuanLySpa\\ChamSocBody.cs",
               "RelativeToolTip": "DTO_QuanLySpa\\ChamSocBody.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB8AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T19:09:39.947Z"
+              "WhenOpened": "2025-10-28T19:09:39.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "QuanLySpaBLL.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\BLL_QuanLySpa\\QuanLySpaBLL.cs",
               "RelativeDocumentMoniker": "BLL_QuanLySpa\\QuanLySpaBLL.cs",
@@ -103,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "QuanLySpaDAL.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DAL_QuanLySpa\\QuanLySpaDAL.cs",
               "RelativeDocumentMoniker": "DAL_QuanLySpa\\QuanLySpaDAL.cs",
@@ -115,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ChamSocSacDep.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\DoAn_LTHDT\\DoAn\\DTO_QuanLySpa\\ChamSocSacDep.cs",
               "RelativeDocumentMoniker": "DTO_QuanLySpa\\ChamSocSacDep.cs",

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 
 namespace GUI_QuanLySpa 
 {
@@ -46,11 +47,35 @@ namespace GUI_QuanLySpa
                         Console.WriteLine("Đã thoát chương trình");
                         break;
                     case 1:
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.Write("Đang tải dữ liệu");
+
+                        for (int i = 0; i < 3; i++)
+                        {
+                            Thread.Sleep(500);
+                            Console.Write(".");
+                        }
+                        Thread.Sleep(400); 
+                        Console.WriteLine();
+
                         spa.getAll();
-                        Console.WriteLine("--- Đã tải dữ liệu thành công! ---");
+                        Console.WriteLine();
+                        string msg = "--- Đã tải dữ liệu thành công! ---";
+                        int consoleWidth = Console.WindowWidth;
+                        int leftPadding = (consoleWidth - msg.Length) / 8;
+
+
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine(new string(' ', Math.Max(leftPadding, 0)) + msg);
+                        Console.ResetColor();
+
+                        Thread.Sleep(800);
+                        Console.WriteLine();
+
                         spa.XuatDSCacDV();
                         spa.XuatDSKH();
                         break;
+
                     case 2:
                         spa.ThemDichVuMoi();
                         break;
