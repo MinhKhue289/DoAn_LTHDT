@@ -1,0 +1,9 @@
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\obj\Debug\DAL_QuanLySpa.csproj.AssemblyReference.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\obj\Debug\DAL_QuanLySpa.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\bin\Debug\DAL_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\bin\Debug\DAL_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\obj\Debug\DAL_Quan.1930F6EF.Up2Date
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\obj\Debug\DAL_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DAL_QuanLySpa\obj\Debug\DAL_QuanLySpa.pdb

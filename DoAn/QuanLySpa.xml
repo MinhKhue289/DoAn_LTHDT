@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuanLySpa>
+	<DSDV>
+		<DichVu Loai ="1">
+			<MaDV>DV01</MaDV>
+			<LoaiDV>Chăm sóc da</LoaiDV>
+			<Gia>560</Gia>
+		</DichVu>
+		<DichVu Loai ="1">
+			<MaDV>DV02</MaDV>
+			<LoaiDV>Triệt lông</LoaiDV>
+			<Gia>345</Gia>
+		</DichVu>
+		<DichVu Loai ="1">
+			<MaDV>DV03</MaDV>
+			<LoaiDV>Phun xăm thẩm mỹ</LoaiDV>
+			<Gia>1300</Gia>
+		</DichVu>
+		<DichVu Loai ="2">
+			<MaDV>DV04</MaDV>
+			<LoaiDV>Bấm huyệt</LoaiDV>
+			<Gia>400</Gia>
+		</DichVu>
+		<DichVu Loai ="2">
+			<MaDV>DV05</MaDV>
+			<LoaiDV>Tẩy tế bào chết</LoaiDV>
+			<Gia>1500</Gia>
+		</DichVu>
+		<DichVu Loai ="3">
+			<MaDV>DV06</MaDV>
+			<LoaiDV>Gội đầu dưỡng sinh</LoaiDV>
+			<Gia>240</Gia>
+		</DichVu>
+		<DichVu Loai ="3">
+			<MaDV>DV07</MaDV>
+			<LoaiDV>Tắm thảo mộc</LoaiDV>
+			<Gia>890</Gia>
+		</DichVu>
+		<DichVu Loai ="3">
+			<MaDV>DV08</MaDV>
+			<LoaiDV>Trị liệu chuyên sâu</LoaiDV>
+			<Gia>990</Gia>
+		</DichVu>
+	</DSDV>
+	<DSKH>
+		<KhachHang>
+			<MaKH>KH01</MaKH>
+			<TenKH>Trần Văn Tuấn</TenKH>
+			<SDT>0901000001</SDT>
+			<DichVus>
+				<DichVu Loai ="3">
+					<MaDV>DV07</MaDV>
+					<LoaiDV>Tắm thảo mộc</LoaiDV>
+					<Gia>890</Gia>
+				</DichVu>
+				<DichVu Loai ="3">
+					<MaDV>DV08</MaDV>
+					<LoaiDV>Trị liệu chuyên sâu</LoaiDV>
+					<Gia>990</Gia>
+				</DichVu>
+				<DichVu Loai ="2">
+					<MaDV>DV05</MaDV>
+					<LoaiDV>Tẩy tế bào chết</LoaiDV>
+					<Gia>1500</Gia>
+				</DichVu>
+			</DichVus>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH02</MaKH>
+			<TenKH>Nguyễn Như Ngọc Nga</TenKH>
+			<SDT>0902000002</SDT>
+			<DichVus>
+				<DichVu Loai ="3">
+					<MaDV>DV07</MaDV>
+					<LoaiDV>Tắm thảo mộc</LoaiDV>
+					<Gia>890</Gia>
+				</DichVu>
+				<DichVu Loai ="3">
+					<MaDV>DV08</MaDV>
+					<LoaiDV>Trị liệu chuyên sâu</LoaiDV>
+					<Gia>990</Gia>
+				</DichVu>
+				<DichVu Loai ="2">
+					<MaDV>DV05</MaDV>
+					<LoaiDV>Tẩy tế bào chết</LoaiDV>
+					<Gia>1500</Gia>
+				</DichVu>
+			</DichVus>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH03</MaKH>
+			<TenKH>Lê Phạm Thành Long</TenKH>
+			<SDT>0903000003</SDT>
+			<DichVus>
+				<DichVu Loai ="3">
+					<MaDV>DV07</MaDV>
+					<LoaiDV>Tắm thảo mộc</LoaiDV>
+					<Gia>890</Gia>
+				</DichVu>
+				<DichVu Loai ="1">
+					<MaDV>DV02</MaDV>
+					<LoaiDV>Triệt lông</LoaiDV>
+					<Gia>345</Gia>
+				</DichVu>
+			</DichVus>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH04</MaKH>
+			<TenKH>Hoàng Cửu Bảo</TenKH>
+			<SDT>0904000004</SDT>
+			<DichVus>
+				<DichVu Loai ="2">
+					<MaDV>DV04</MaDV>
+					<LoaiDV>Bấm huyệt</LoaiDV>
+					<Gia>400</Gia>
+				</DichVu>
+				<DichVu Loai ="2">
+					<MaDV>DV05</MaDV>
+					<LoaiDV>Tẩy tế bào chết</LoaiDV>
+					<Gia>1500</Gia>
+				</DichVu>
+				<DichVu Loai ="3">
+					<MaDV>DV06</MaDV>
+					<LoaiDV>Gội đầu dưỡng sinh</LoaiDV>
+					<Gia>240</Gia>
+				</DichVu>
+			</DichVus>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH05</MaKH>
+			<TenKH>Trịnh Trần Phương Tuấn</TenKH>
+			<SDT>0905000005</SDT>
+			<DichVus>
+				<DichVu Loai ="1">
+					<MaDV>DV02</MaDV>
+					<LoaiDV>Triệt lông</LoaiDV>
+					<Gia>345</Gia>
+				</DichVu>
+				<DichVu Loai ="2">
+					<MaDV>DV04</MaDV>
+					<LoaiDV>Bấm huyệt</LoaiDV>
+					<Gia>400</Gia>
+				</DichVu>
+				<DichVu Loai ="1">
+					<MaDV>DV03</MaDV>
+					<LoaiDV>Phun xăm thẩm mỹ</LoaiDV>
+					<Gia>1300</Gia>
+				</DichVu>
+				<DichVu Loai ="3">
+					<MaDV>DV06</MaDV>
+					<LoaiDV>Gội đầu dưỡng sinh</LoaiDV>
+					<Gia>240</Gia>
+				</DichVu>
+			</DichVus>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH06</MaKH>
+			<TenKH>Nguyễn Thanh Tùng</TenKH>
+			<SDT>0906000006</SDT>
+			<DichVus>
+				<DichVu Loai ="3">
+					<MaDV>DV07</MaDV>
+					<LoaiDV>Tắm thảo mộc</LoaiDV>
+					<Gia>890</Gia>
+				</DichVu>
+				<DichVu Loai ="1">
+					<MaDV>DV01</MaDV>
+					<LoaiDV>Chăm sóc da</LoaiDV>
+					<Gia>560</Gia>
+				</DichVu>
+				<DichVu Loai ="2">
+					<MaDV>DV04</MaDV>
+					<LoaiDV>Bấm huyệt</LoaiDV>
+					<Gia>400</Gia>
+				</DichVu>
+		</DichVus>
+		</KhachHang>
+	</DSKH>
+</QuanLySpa>

@@ -1,0 +1,14 @@
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\GUI_QuanLySpa1.exe.config
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\GUI_QuanLySpa1.exe
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\GUI_QuanLySpa1.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\BLL_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\DAL_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\BLL_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\bin\Debug\DAL_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\obj\Debug\GUI_QuanLySpa1.csproj.AssemblyReference.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\obj\Debug\GUI_QuanLySpa1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\obj\Debug\GUI_Quan.E6304214.Up2Date
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\obj\Debug\GUI_QuanLySpa1.exe
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\GUI_QuanLySpa1\obj\Debug\GUI_QuanLySpa1.pdb

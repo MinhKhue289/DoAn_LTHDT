@@ -1,0 +1,7 @@
+D:\C#\DoAn_LTHDT\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\C#\DoAn_LTHDT\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\C#\DoAn_LTHDT\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\C#\DoAn_LTHDT\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\C#\DoAn_LTHDT\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\C#\DoAn_LTHDT\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\C#\DoAn_LTHDT\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache

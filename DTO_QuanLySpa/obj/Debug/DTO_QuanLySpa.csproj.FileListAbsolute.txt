@@ -1,0 +1,6 @@
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.csproj.AssemblyReference.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.csproj.CoreCompileInputs.cache
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.dll
+C:\Users\THANH\Desktop\DoAn_LTHDT\DoAn\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.pdb
