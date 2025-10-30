@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml;
 namespace BLL_QuanLySpa
 {
     public class QuanLySpaBLL
@@ -30,6 +31,38 @@ namespace BLL_QuanLySpa
             qlDAL.DocFile(file);
             this.dsDV = qlDAL.DsDV;
             this.dsKH = qlDAL.DsKH;
+        }
+        public void GhiFile(DichVuDTO dv)
+        {
+            DsDV.Add(dv);
+            string pathfile = @"..\..\..\QuanLySpa.xml";
+            XmlDocument xml = new XmlDocument();
+            xml.Load(pathfile);
+            XmlNode root = xml.SelectSingleNode("/QuanLySpa/DSDV");
+            XmlNode nodeDV = xml.CreateNode(XmlNodeType.Element, "DichVu", null);
+
+            XmlAttribute attrLoai = xml.CreateAttribute("Loai");
+            string loai = "3";
+            if (dv is ChamSocSacDep) loai = "1";
+            else if (dv is ChamSocBody) loai = "2";
+            attrLoai.Value = loai;
+            nodeDV.Attributes.Append(attrLoai);
+
+            XmlElement eMa = xml.CreateElement("MaDV");
+            eMa.InnerText = dv.MaDV;
+            XmlElement eLoaiDV = xml.CreateElement("LoaiDV");
+            eLoaiDV.InnerText = dv.TenDV;
+            XmlElement eGia = xml.CreateElement("Gia");
+            eGia.InnerText = dv.Gia.ToString();
+
+            nodeDV.AppendChild(eMa);
+            nodeDV.AppendChild(eLoaiDV);
+            nodeDV.AppendChild(eGia);
+
+            root.AppendChild(nodeDV);
+
+            xml.Save(pathfile);
+            Console.WriteLine($"Ghi dịch vụ mới vào file thành công");
         }
         public void ThemDichVuMoi()
         {
@@ -58,7 +91,7 @@ namespace BLL_QuanLySpa
             {
                 dv_new = new DuongSinhTriLieu(maDV, tenDV, gia);
             }
-            DsDV.Add(dv_new);
+            GhiFile(dv_new);
             XuatDSCacDV();
         }
 
@@ -86,10 +119,10 @@ namespace BLL_QuanLySpa
             Console.WriteLine();
         }
 
-        public DichVuDTO TimDVBangTen(string tenDV)
-        {
-            return DsDV.FirstOrDefault(x => x.TenDV == tenDV);
-        }
+            public DichVuDTO TimDVBangTen(string tenDV)
+            {
+                return DsDV.FirstOrDefault(x => x.TenDV == tenDV);
+            }
         public void XuatMotDV(DichVuDTO dv)
         {
             if (dv != null)
